@@ -1,6 +1,6 @@
-#Matlab&Simulink interface to ArduPilot SITL
+# Matlab&Simulink interface to ArduPilot SITL
 
-##How to run
+## How to run
 1. Run your ArduPilot SITL instance in Gazebo mode. You'll have to run script like "sim_vehicle.py --model gazebo"
 2. Optionally connect your GCS
 3. Run init.m from Matlab
