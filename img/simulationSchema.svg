@@ -271,7 +271,7 @@
            y="106.93211"
            x="63.613068"
            id="tspan8419-2"
-           sodipodi:role="line">Řízení</tspan><tspan
+           sodipodi:role="line">Controll</tspan><tspan
            id="tspan8423-9"
            style="font-size:8.46666622px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
            y="120.16128"
@@ -354,7 +354,7 @@
              id="tspan8419-2-9"
              x="173.22617"
              y="55.527351"
-             style="text-align:center;text-anchor:middle;stroke-width:0.26458332px">Vizualizace</tspan><tspan
+             style="text-align:center;text-anchor:middle;stroke-width:0.26458332px">Visualization</tspan><tspan
              sodipodi:role="line"
              x="173.22617"
              y="68.756516"
@@ -382,7 +382,7 @@
            style="font-size:10.58333302px;text-align:center;text-anchor:middle;stroke-width:0.26458332px"
            y="215.41127"
            x="177.00592"
-           sodipodi:role="line">Joistick</tspan></text>
+           sodipodi:role="line">Joystick</tspan></text>
     </g>
     <path
        style="fill:none;fill-rule:evenodd;stroke:#4f4f4f;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-start:;marker-end:url(#Arrow2Lend)"
